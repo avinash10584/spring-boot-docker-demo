@@ -1,0 +1,7 @@
+spring:
+  application:
+    name : spring-boot-docker-demo
+    
+server:
+    port: 3050
+    
